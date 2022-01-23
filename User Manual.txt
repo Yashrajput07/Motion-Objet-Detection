@@ -1,0 +1,2 @@
+1. Object Detection Program is in main.py file.
+2. Motion detection is in Sdp2.py and sdp3.py file.
